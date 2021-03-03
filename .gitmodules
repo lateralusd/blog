@@ -1,0 +1,12 @@
+[submodule "ghostwriter"]
+	path = ghostwriter
+	url = https://github.com/jbub/ghostwriter
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter
+[submodule "Xdaemonx.github.io"]
+	path = Xdaemonx.github.io
+	url = https://github.com/XdaemonX/Xdaemonx.github.io.git
+[submodule "lateralusd.github.io"]
+	path = lateralusd.github.io
+	url = https://github.com/lateralusd/lateralusd.github.io.git

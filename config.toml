@@ -1,0 +1,18 @@
+baseurl = "https://lateralusd.github.io/"
+title = "lateralusd's blog"
+theme = "ghostwriter"
+publishDir = "lateralus.github.io"
+
+[Params]
+	mainSections = ["post"]
+	intro = true
+	headline = "lateralus daemons because I love daemons"
+	description = "Lets play with iOS and Mac OS"
+	github = "https://github.com/lateralusd"
+	email = "del0x0rean@tutanota.com"
+	opengraph = true
+	shareTwitter = true
+	dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+	post = "/:filename/"
